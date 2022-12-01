@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e9b9318009d343f6b05b95ddf3d6258, type: 3}
+  m_Name: TestKey
+  m_EditorClassIdentifier: 
+  itemName: Test Key
+  descriptionText: 'You pick up the key.
+
+'
+  canPickUp: 1
+  prefabModel: {fileID: 1920626017878288, guid: 56d190a5250bea04ab643dd056b638f6,
+    type: 3}
+  itemIcon: {fileID: 21300000, guid: a78c6438488d145d088d459be2d6b364, type: 3}
+  flashingParticle: {fileID: 0}
